@@ -42,7 +42,7 @@ body, html {
 
 @media (max-width: 767px) {
   .fullscreen-bg {
-    background: url('../img/aurora_lights_iceland_small.jpg') center center / cover no-repeat;
+    background: url('aurora_lights_iceland_small.jpg') center center / cover no-repeat;
   }
 
   .fullscreen-bg__video {
